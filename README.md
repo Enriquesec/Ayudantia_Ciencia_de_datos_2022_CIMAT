@@ -4,9 +4,10 @@ Aquí se recopilaran todos los codigos necesarios en las ayudantías, como las s
 
 Para la seción del 24 de enero del 2022. Installar Anaconda. 
 
--Para Windows: 
- 	1. Anaconda (o miniconda): https://www.anaconda.com/download/#windows
- 	2. Abrir Anaconda e instalar Jupyter Notebook
+Para Windows: 
+ - Anaconda (o miniconda): https://www.anaconda.com/download/#windows
+ - Abrir Anaconda e instalar Jupyter Notebook
+ - Correr Jupyter Notebook
 
 
 Para Linux/Mac:
